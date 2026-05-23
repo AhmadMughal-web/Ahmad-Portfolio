@@ -49,8 +49,8 @@ export const PROJECTS = [
     tag: 'React • Node.js • Groq API • MongoDB • Netlify • Render',
     title: 'DevAura — AI Portfolio',
     desc: 'A full-stack developer portfolio with live AI assistant — featuring interactive 3D animations, canvas effects, and real-time AI chat powered by Groq.',
-    link: 'https://nexusai-2026.netlify.app',
-    github: 'https://github.com/AhmadMughal-web/nexusai.git',
+    link: 'https://ahmad-ai-portfolio.netlify.app',
+    github: 'https://github.com/AhmadMughal-web/Ahmad-Portfolio.git',
     cat: 'ai', featured: true, coming: false,
   },
   {
