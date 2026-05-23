@@ -53,8 +53,6 @@ GitHub: github.com/AhmadMughal-web | LinkedIn: linkedin.com/in/ahmadmughal-web
 
 **PingUp—Social Media Platform** (Full Stack — React, Node.js,JWT Auth, MongoDB) — A full-stack social media platform built with React & Node.js — featuring real-time messaging, user authentication, and MongoDB integration.
 
-**E-Commerce Platform** (Full Stack — React, Node.js,JWT Auth, MongoDB) — A full-stack E-Commerce platform.  — Where you can sell and buy different products, with real-time chat support and secure authentication. 
-
 **RoyalFlix—Streaming Platform** (Coming Soon) — A full-stack streaming platform inspired by Netflix — featuring a cinematic UI with movie browsing, search, trailers, watchlist management.
  
 == FORMATTING RULES — FOLLOW STRICTLY ==
