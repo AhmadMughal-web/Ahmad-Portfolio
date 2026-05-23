@@ -227,7 +227,7 @@ export default function Hero() {
       </div>
 
       <div className="fu2 relative z-[3]">
-        <p className="font-display text-[0.85rem] tracking-[3px] uppercase text-[#64748b] mb-4">Hello World 👋</p>
+        <p className="font-display text-[0.85rem] tracking-[3px] uppercase text-[#64748b] mb-4">Hello World </p>
         <h1 className="font-display font-black leading-none tracking-[-3px] text-white mb-4 text-[clamp(3rem,8vw,7rem)]">
           I'm <span className="name-grad">M.Ahmad</span>
         </h1>
